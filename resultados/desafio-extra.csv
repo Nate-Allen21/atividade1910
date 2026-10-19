@@ -1,0 +1,3 @@
+Teste extra;Usuários simultâneos;Rampa (s);Repetições;Requisição;Amostras;Média (ms);P90 (ms);Máx (ms);Erro %;Vazão (req/s);Observação
+1 usuário;1;1;10;GET /api/relatorio;10;153;152;185;0,0%;6,5;Referência
+20 usuários;20;10;10;GET /api/relatorio;200;475;562;605;0,0%;14,8;Média dentro do limite, P90 elevado

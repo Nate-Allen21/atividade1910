@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792432714654,37,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,35,0,15
+1792432714694,25,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,25,0,0
+1792432714719,31,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,31,0,0
+1792432714751,30,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,30,0,0
+1792432714781,30,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,30,0,0
+1792432714812,31,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,31,0,0
+1792432714844,30,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,30,0,0
+1792432714875,30,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,30,0,0
+1792432714905,30,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,30,0,0
+1792432714936,31,GET /api/chamados,200,OK,Usuários simultâneos 1-1,text,true,,2554,128,1,1,http://localhost:3333/api/chamados,31,0,0

@@ -1,0 +1,34 @@
+{
+  "GET /api/chamados" : {
+    "transaction" : "GET /api/chamados",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 30.5,
+    "medianResTime" : 30.0,
+    "minResTime" : 25.0,
+    "maxResTime" : 37.0,
+    "pct1ResTime" : 36.400000000000006,
+    "pct2ResTime" : 37.0,
+    "pct3ResTime" : 37.0,
+    "throughput" : 31.948881789137378,
+    "receivedKBytesPerSec" : 79.68500399361022,
+    "sentKBytesPerSec" : 3.9936102236421727
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 30.5,
+    "medianResTime" : 30.0,
+    "minResTime" : 25.0,
+    "maxResTime" : 37.0,
+    "pct1ResTime" : 36.400000000000006,
+    "pct2ResTime" : 37.0,
+    "pct3ResTime" : 37.0,
+    "throughput" : 31.948881789137378,
+    "receivedKBytesPerSec" : 79.68500399361022,
+    "sentKBytesPerSec" : 3.9936102236421727
+  }
+}
