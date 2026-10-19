@@ -75,3 +75,21 @@ Os prints realizados mostram:
 - execução do cenário com 20 usuários, média de 21 ms, P90 de 31 ms, máximo de 46 ms e erro de 0%.
 
 **Atenção:** o print do cenário de 20 usuários mostra 20 amostras, portanto aquela execução corresponde a 1 repetição por usuário. Para representar corretamente o Teste 3 da atividade, que exige 10 repetições por usuário, é necessário repetir a execução até o relatório mostrar 200 amostras. As capturas devem ser anexadas junto com este relatório, pois imagens coladas no chat não são automaticamente incorporadas ao arquivo Markdown.
+
+### Anexos das capturas
+
+![Configuração do Teste 1](<entrega-atividade/prints/Captura de tela 2026-10-19 152427.png>)
+
+![Requisição GET /api/chamados](<entrega-atividade/prints/Captura de tela 2026-10-19 152800.png>)
+
+![Summary Report do Teste 1](<entrega-atividade/prints/Captura de tela 2026-10-19 153338.png>)
+
+![Aggregate Report do Teste 1](<entrega-atividade/prints/Captura de tela 2026-10-19 153349.png>)
+
+![Requisição do Teste 2](<entrega-atividade/prints/Captura de tela 2026-10-19 153621.png>)
+
+![Summary Report do Teste 2](<entrega-atividade/prints/Captura de tela 2026-10-19 153626.png>)
+
+![Requisição do Teste 3](<entrega-atividade/prints/Captura de tela 2026-10-19 153722.png>)
+
+![Summary Report do Teste 3](<entrega-atividade/prints/Captura de tela 2026-10-19 153727.png>)
