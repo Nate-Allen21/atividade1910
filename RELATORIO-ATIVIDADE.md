@@ -78,18 +78,18 @@ Os prints realizados mostram:
 
 ### Anexos das capturas
 
-![Configuração do Teste 1](<entrega-atividade/prints/Captura de tela 2026-10-19 152427.png>)
+![Configuração do Teste 1](<entrega-atividade/prints/01-teste-1-configuracao-thread-group.png>)
 
-![Requisição GET /api/chamados](<entrega-atividade/prints/Captura de tela 2026-10-19 152800.png>)
+![Requisição GET /api/chamados](<entrega-atividade/prints/02-teste-1-requisicao-get-chamados.png>)
 
-![Summary Report do Teste 1](<entrega-atividade/prints/Captura de tela 2026-10-19 153338.png>)
+![Summary Report do Teste 1](<entrega-atividade/prints/03-teste-1-summary-report.png>)
 
-![Aggregate Report do Teste 1](<entrega-atividade/prints/Captura de tela 2026-10-19 153349.png>)
+![Aggregate Report do Teste 1](<entrega-atividade/prints/04-teste-1-aggregate-report.png>)
 
-![Requisição do Teste 2](<entrega-atividade/prints/Captura de tela 2026-10-19 153621.png>)
+![Requisição do Teste 2](<entrega-atividade/prints/05-teste-2-requisicao-get-chamados.png>)
 
-![Summary Report do Teste 2](<entrega-atividade/prints/Captura de tela 2026-10-19 153626.png>)
+![Summary Report do Teste 2](<entrega-atividade/prints/06-teste-2-summary-report.png>)
 
-![Requisição do Teste 3](<entrega-atividade/prints/Captura de tela 2026-10-19 153722.png>)
+![Requisição do Teste 3](<entrega-atividade/prints/07-teste-3-requisicao-get-chamados.png>)
 
-![Summary Report do Teste 3](<entrega-atividade/prints/Captura de tela 2026-10-19 153727.png>)
+![Summary Report do Teste 3](<entrega-atividade/prints/08-teste-3-summary-report.png>)
