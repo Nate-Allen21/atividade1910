@@ -64,3 +64,14 @@ Com a API ligada, abra `http://localhost:3333` no navegador e mantenha o painel 
 6. para o desafio, repita as telas usando `GET /api/relatorio`.
 
 O agente não consegue conceder controle remoto do seu dispositivo nem tirar capturas da sua área de trabalho. As telas ficam prontas com os arquivos e os endereços acima; basta abrir o JMeter e o navegador localmente para capturá-las.
+
+## Evidências capturadas no JMeter
+
+Os prints realizados mostram:
+
+- `GET /api/chamados` configurado com protocolo `http`, servidor `localhost` e porta `3333`;
+- Thread Group do Teste 1 com 1 usuário, ramp-up de 1 segundo e 10 repetições;
+- Summary Report e Aggregate Report sem erros;
+- execução do cenário com 20 usuários, média de 21 ms, P90 de 31 ms, máximo de 46 ms e erro de 0%.
+
+**Atenção:** o print do cenário de 20 usuários mostra 20 amostras, portanto aquela execução corresponde a 1 repetição por usuário. Para representar corretamente o Teste 3 da atividade, que exige 10 repetições por usuário, é necessário repetir a execução até o relatório mostrar 200 amostras. As capturas devem ser anexadas junto com este relatório, pois imagens coladas no chat não são automaticamente incorporadas ao arquivo Markdown.
